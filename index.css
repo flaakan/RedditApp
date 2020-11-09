@@ -1,0 +1,21 @@
+body{
+    background: #f3f3f3;
+}
+
+#post-list{
+    display: flex;
+    padding: 3rem;
+}
+
+.card{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    height: 350px;
+    width: 400px;
+    padding: 1.5rem;
+    background: #ffffff;
+    margin-left:10px;
+    border-radius: 16px;
+    transition: 1.5s;
+}
